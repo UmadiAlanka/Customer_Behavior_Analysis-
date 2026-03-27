@@ -1,4 +1,4 @@
-# Customer_Behavior_Analysis-
+# Customer_Behavior_Analysis
 📊 Overview
 This project provides a comprehensive end-to-end analysis of customer behavior patterns. By combining Python for data processing, PostgreSQL for structured storage, and Power BI for visualization, the project identifies key trends in purchase amounts, subscription statuses, and review ratings to drive data-informed business decisions.
 
